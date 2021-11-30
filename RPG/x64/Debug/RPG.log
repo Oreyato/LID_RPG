@@ -1,0 +1,7 @@
+﻿  Character.cpp
+G:\Cours\Progra\C++\003\RPG - Copie\RPG\Character.cpp(92,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Cours\Progra\C++\003\RPG - Copie\RPG\Character.cpp(255,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+G:\Cours\Progra\C++\003\RPG - Copie\RPG\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  RPG.vcxproj -> G:\Cours\Progra\C++\003\RPG - Copie\x64\Debug\RPG.exe

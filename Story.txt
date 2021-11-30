@@ -1,0 +1,35 @@
+0-CHARACTER CREATION
+#???
+
+#???
+
+1-ROAD TO TOWN
+#1
+~The light is slowly fading away...~
+
+You are standing still in the middle of a forest. It seems that you were 
+doing something before being trapped in the threads of space and time.
+
+Suddently, you life flashes before your eyes. As your mind fills with 
+informations, the previous encounter fades away...
+
+You remember that you were going towards Mulnr, the South-Est city.
+You take a quick look inside your bag and pockets before going.
+#1
+
+#2
+The sky is starting to get dark, you should hurry to get out of this
+forest, you never know what could happen when even your hands are hard
+to see...
+
+Suddently, you hear something on your left. The skilled warrior you are
+quickly understand the situation: bandits. Two at least, maybe three.
+
+You tightly hold your weapon, it may be your first fight in a while.
+#2
+
+#3
+Bandits... Again?
+#3
+
+2-ARRIVING IN TOWN

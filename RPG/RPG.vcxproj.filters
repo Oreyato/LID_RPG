@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Enums">
+      <UniqueIdentifier>{485afece-776a-4ebe-9870-12e40c2da7ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Interfaces">
+      <UniqueIdentifier>{0b948b93-6c86-4949-94e8-bb46011158ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Spirits">
+      <UniqueIdentifier>{3cca3b6b-b534-4e6a-93c6-b962fbcdec43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Characters">
+      <UniqueIdentifier>{12dbddbb-2fe3-4e99-84d7-801c1c06eb6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Spirits">
+      <UniqueIdentifier>{3b199d90-66ff-457b-9d19-719be3be0c97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Characters">
+      <UniqueIdentifier>{45900ff0-b578-480f-ae2c-5262bee2ce36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\System">
+      <UniqueIdentifier>{93b32dea-b0a4-470b-890f-4374f3f92257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\System">
+      <UniqueIdentifier>{a7d9a2e8-4faf-4ecd-87a4-7fa9931a3474}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Clash.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Merchant.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayableCharacter.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="FireSpirit.cpp">
+      <Filter>Fichiers sources\Spirits</Filter>
+    </ClCompile>
+    <ClCompile Include="RainbowSpirit.cpp">
+      <Filter>Fichiers sources\Spirits</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterSpirit.cpp">
+      <Filter>Fichiers sources\Spirits</Filter>
+    </ClCompile>
+    <ClCompile Include="WindSpirit.cpp">
+      <Filter>Fichiers sources\Spirits</Filter>
+    </ClCompile>
+    <ClCompile Include="Dice.cpp">
+      <Filter>Fichiers sources\System</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Story.cpp">
+      <Filter>Fichiers sources\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shop.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Clash.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="PotionType.h">
+      <Filter>Fichiers d%27en-tête\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemType.h">
+      <Filter>Fichiers d%27en-tête\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="ISpirit.h">
+      <Filter>Fichiers d%27en-tête\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiritType.h">
+      <Filter>Fichiers d%27en-tête\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="WindSpirit.h">
+      <Filter>Fichiers d%27en-tête\Spirits</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterSpirit.h">
+      <Filter>Fichiers d%27en-tête\Spirits</Filter>
+    </ClInclude>
+    <ClInclude Include="RainbowSpirit.h">
+      <Filter>Fichiers d%27en-tête\Spirits</Filter>
+    </ClInclude>
+    <ClInclude Include="FireSpirit.h">
+      <Filter>Fichiers d%27en-tête\Spirits</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Merchant.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayableCharacter.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="PrestigeLevel.h">
+      <Filter>Fichiers d%27en-tête\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Timing.h">
+      <Filter>Fichiers d%27en-tête\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Fichiers d%27en-tête\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Story.h">
+      <Filter>Fichiers d%27en-tête\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Dice.h">
+      <Filter>Fichiers d%27en-tête\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

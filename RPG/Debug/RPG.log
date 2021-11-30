@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\C++\RPG\RPG\main.cpp(9,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+F:\C++\RPG\RPG\main.cpp(12,17): warning C4101: 'health' : variable locale non référencée
+F:\C++\RPG\RPG\main.cpp(12,11): warning C4101: 'mana' : variable locale non référencée
+  RPG.vcxproj -> F:\C++\RPG\Debug\RPG.exe
